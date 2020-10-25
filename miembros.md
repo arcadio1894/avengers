@@ -1,6 +1,5 @@
 #Avengers
 * IronMan
-* Capitan America
 * Black Widow
 * Hulk
 * Thor
